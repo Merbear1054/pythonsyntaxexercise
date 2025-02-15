@@ -1,0 +1,2 @@
+# pythonsyntaxexercise
+python syntax exercise
